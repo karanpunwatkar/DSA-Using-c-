@@ -1,4 +1,4 @@
-# DSA-Using-c++
+# DSA-Using-cpp
 
 ## Question 1: Find Minimum and Maximum in an Array
 
